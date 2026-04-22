@@ -1,7 +1,7 @@
-```c
+
 Name: Arnav Band
 PRN: 24070521223
-```
+
 
 # Experiment 2: Process Management Commands
 
@@ -40,7 +40,7 @@ Processes can run in foreground or background, and their priority can be adjuste
 ***
 
 ## Commands with Examples
-```text
+text
 # 1. Run process in background
 gedit &
 # Output:  [delightlylinux.wordpress](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/) 4523
